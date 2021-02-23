@@ -8,3 +8,5 @@
 - ⚡ Fun fact: The Eiffel Tower can grow more than six inches during the summer due to heat
 
 [![barafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=barafael&show_icons=true&theme=onedark)](https://github.com/barafael/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barafael)](https://github.com/barafael/github-readme-stats)
