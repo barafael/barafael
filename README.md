@@ -7,4 +7,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: The Eiffel Tower can grow more than six inches during the summer due to heat
 
-[![barafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=barafael&show_icons=true&theme=merko)](https://github.com/barafael/github-readme-stats)
+[![barafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=barafael&show_icons=true&theme=onedark)](https://github.com/barafael/github-readme-stats)
