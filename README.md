@@ -6,3 +6,5 @@
 - 📫 How to reach me: rafael dot bachmann dot 93 at gmail dot com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: The Eiffel Tower can grow more than six inches during the summer due to heat
+
+[![barafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=barafael)](https://github.com/barafael/github-readme-stats)
