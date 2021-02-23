@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on: an autonomous sailboat
+- 🔭 I’m currently working on: an autonomous sailboat and an infinity lamp
 - 🌱 I’m currently learning: embedded Rust
 - 👯 I’m looking to collaborate on: anything related to embedded-hal drivers
 - 🤔 I’m looking for help with: embedded-hal drivers :D
