@@ -1,8 +1,19 @@
-- 🔭 I’m currently working on: an autonomous sailboat and an infinity lamp
-- 🌱 I’m currently learning: embedded Rust
-- 👯 I’m looking to collaborate on: anything related to embedded-hal drivers
-- 🤔 I’m looking for help with: embedded-hal drivers
-- 💬 Ask me about: Rust, git, C, stm32
-- 📫 How to reach me: rafael dot bachmann dot 93 at gmail dot com
+<h1 align="center">Hello, Rafael Here! 👋</h1>
 
+<p align="center" style="background: red">
+  I'm a software dev interested in robust systems software that is also fun to work on :)<br/>
+  Currently, working as a Rust Developer. Also, I have a number of personal projects ongoing...<br/>
+  🔭
+</p>
+<br>
+<p align="center" style="background: red">
+  I like working on physical computing systems: currently a dodecahedron infinity light, air quality sensor, and autonomous mini sailboat.<br/>
+  Also, sometimes I make low-hanging-fruit changes to Rust libraries (just clippy lint fixes, tests, formatting, that kind of stuff).
+</p>
+<br>
+<p align="center">
+  If you want to 💬, <a href="mailto:rafael.bachmann.93@gmail.com">send me a 📫!</a>
+</p>
+<p align="center">
 [![barafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=barafael&show_icons=true&theme=onedark)](https://github.com/barafael/github-readme-stats)
+</p>
