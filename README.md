@@ -7,7 +7,7 @@
 </p>
 <br>
 <p align="center" style="background: red">
-  I like working on physical computing systems: currently a dodecahedron infinity light, air quality sensor, and autonomous mini sailboat.<br/>
+  I like working on things that do stuff. Currently a dodecahedron infinity light, air quality sensor, and autonomous mini sailboat.<br/>
   Also, sometimes I make low-hanging-fruit changes to Rust libraries (just clippy lint fixes, tests, formatting, that kind of stuff).
 </p>
 <br>
