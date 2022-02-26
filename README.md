@@ -1,4 +1,4 @@
-<h1 align="center">Hello, Rafael Here! 👋</h1>
+<h1 align="center">Hello 👋</h1>
 
 <p align="center" style="background: red">
   I'm a software dev interested in robust systems software that is also fun to work on :)<br/>
