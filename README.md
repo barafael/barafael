@@ -18,4 +18,3 @@
 <br>
 <hr>
 <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=barafael&show_icons=true&theme=onedark"></p>
